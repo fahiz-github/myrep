@@ -6,6 +6,7 @@ public class Fd {
 		// TODO Auto-generated method stub
 		System.out.println("ddss");
 		k=09;
+		gjh
 
 	}
 
